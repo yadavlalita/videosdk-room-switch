@@ -24,3 +24,7 @@ backend/ - Token server
 5. cd frontend
 6. npm install
 7. npm start
+
+## Deployment
+- Frontend: Vercel / Netlify
+- Backend: Render / Railway
